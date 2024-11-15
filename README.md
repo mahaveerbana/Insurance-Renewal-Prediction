@@ -1,1 +1,1 @@
-# Medical-Insurance-Cost-Prediction
+# Insurance-Renewal-Prediction
